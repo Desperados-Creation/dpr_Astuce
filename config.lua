@@ -20,8 +20,7 @@ Config = {
     PedPosition = vector3(-486.53, -678.7, 31.83),
     PedRotation = 131.33,
 
-    marker = true, -- Affichage du marker (true = oui, false = non)
-
+    
     MarkerType = 32, -- Pour voir les différents type de marker: https://docs.fivem.net/docs/game-references/markers/
     MarkerSizeLargeur = 0.3, -- Largeur du marker
     MarkerSizeEpaisseur = 0.3, -- Épaisseur du marker
